@@ -1,4 +1,4 @@
-# Calculator
+# Simple Calculator
 
 - **Demo** : https://angular-calculator-app.netlify.app/
 - **Repo** : https://github.com/Ahmed-Abd-Ellatif/-Angular-Calculator
